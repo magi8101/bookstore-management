@@ -29,6 +29,7 @@ Ensure you have the following installed before starting:
 - Python 3.x
 - PyQt6 (`pip install pyqt6`)
 - SQLite3 (comes pre-installed with Python)
+- PYQt6-tools(`pip install pyqt6-tools`)
 
 ---
 
