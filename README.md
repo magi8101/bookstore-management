@@ -1,6 +1,3 @@
-# Writing the improved README content to a file so it can be downloaded.
-
-
 # 📚 Bookstore App - PyQt6
 
 A simple **Bookstore app** built with **PyQt6** and **SQLite**. The app lets users search for books by title, view their prices, and calculate the total cost for a specified quantity.
